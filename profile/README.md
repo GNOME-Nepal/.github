@@ -42,7 +42,7 @@ We welcome contributions from individuals and organizations interested in suppor
 For more information, inquiries, or to get involved, please reach out to us at:
 
 - **Email**: nepal@staff-mail.gnome.org
-- **Website**: [Click Here](https://gnomenepal.netlify.app/)
+- **Website**: [nepal.gnome.org](https://nepal.gnome.org/)
 - **LinkedIn**: [GNOME Nepal](https://www.linkedin.com/company/gnomenepal/)
 - **Instagram**: [@gnomenepal](https://www.instagram.com/gnomenepal/)
 - **Discord**: [Click Here](https://discord.com/invite/3dpGWPbrMc)

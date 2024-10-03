@@ -45,7 +45,7 @@ For more information, inquiries, or to get involved, please reach out to us at:
 - **Website**: [nepal.gnome.org](https://nepal.gnome.org/)
 - **LinkedIn**: [GNOME Nepal](https://www.linkedin.com/company/gnomenepal/)
 - **Instagram**: [@gnomenepal](https://www.instagram.com/gnomenepal/)
-- **Discord**: [Click Here](https://discord.com/invite/3dpGWPbrMc)
+- **Discord**: [Click Here](https://discord.com/invite/tpsVFJN8WC)
 
 
 Join us in our journey to make open-source technology accessible and exciting for everyone in Nepal!
